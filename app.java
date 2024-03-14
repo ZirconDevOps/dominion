@@ -1,4 +1,3 @@
-cat app.java
 java application
 development
 for paypal webbapp.
